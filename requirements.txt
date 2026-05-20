@@ -1,0 +1,99 @@
+# =========================
+# CORE LANGCHAIN + LCEL
+# =========================
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-mistralai
+langgraph
+
+# =========================
+# MISTRAL API
+# =========================
+mistralai
+
+# =========================
+# TOOLS
+# =========================
+tavily-python
+beautifulsoup4
+requests
+lxml
+
+# =========================
+# REACT AGENT + AGENTS
+# =========================
+pydantic
+typing-extensions
+
+# =========================
+# ENVIRONMENT VARIABLES
+# =========================
+python-dotenv
+
+# =========================
+# ASYNC + HTTP
+# =========================
+httpx
+aiohttp
+
+# =========================
+# DATA HANDLING
+# =========================
+pandas
+numpy
+
+# =========================
+# VECTOR STORE / RAG (OPTIONAL BUT IMPORTANT)
+# =========================
+faiss-cpu
+chromadb
+
+# =========================
+# DOCUMENT LOADERS
+# =========================
+pypdf
+unstructured
+
+# =========================
+# WEB SCRAPING EXTRA
+# =========================
+selenium
+
+# =========================
+# TOKEN COUNTING
+# =========================
+tiktoken
+
+# =========================
+# API SERVER
+# =========================
+fastapi
+uvicorn
+
+# =========================
+# UTILITIES
+# =========================
+rich
+tenacity
+
+# =========================
+# TESTING
+# =========================
+pytest
+
+# =========================
+# NOTEBOOK SUPPORT (OPTIONAL)
+# =========================
+jupyter
+
+# =========================
+# LOGGING / MONITORING
+# =========================
+loguru
+
+# =========================
+# JSON HANDLING
+# =========================
+orjson
